@@ -1,0 +1,6 @@
+C:\Users\Serhan\source\repos\CVEntity\CVEntity.Models\bin\Debug\CVEntity.Models.dll
+C:\Users\Serhan\source\repos\CVEntity\CVEntity.Models\bin\Debug\CVEntity.Models.pdb
+C:\Users\Serhan\source\repos\CVEntity\CVEntity.Models\obj\Debug\CVEntity.Models.csprojAssemblyReference.cache
+C:\Users\Serhan\source\repos\CVEntity\CVEntity.Models\obj\Debug\CVEntity.Models.csproj.CoreCompileInputs.cache
+C:\Users\Serhan\source\repos\CVEntity\CVEntity.Models\obj\Debug\CVEntity.Models.dll
+C:\Users\Serhan\source\repos\CVEntity\CVEntity.Models\obj\Debug\CVEntity.Models.pdb
